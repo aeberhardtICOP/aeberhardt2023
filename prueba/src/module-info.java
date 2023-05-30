@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author alech
- *
- */
-module prueba {
-}
