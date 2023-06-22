@@ -1,6 +1,7 @@
 package entidades;
 import java.util.Scanner;
 public class Empleado extends Persona {
+//private boolean esActivo=true;
 private static int nro=1;
 private int nroLegajo;
 private int añoIncorp;
